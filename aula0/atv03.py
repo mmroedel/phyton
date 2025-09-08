@@ -1,0 +1,6 @@
+numero1=int(input("Digite um primeiro número: "))
+numero2=int(input("Digite um segundo número "))
+print(f"O primeiro número digitado é {numero1}")
+print(f"O segundo número digitado é {numero2}")
+soma=(numero1+numero2)
+print(f"O resultado é da soma destes números é:{soma}")
