@@ -2,4 +2,4 @@
 conta= float(input("Olá! Favor informar o valor (em reais) atual presente na carteira para a conversão: R$ "))
 valor= float(conta/5.60)
 
-print(f"Você pode comprar até ${valor} em dólares")
+print(f"Você pode comprar até ${valor:.4} em dólares")
